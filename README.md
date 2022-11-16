@@ -1,4 +1,4 @@
-# Professional README Genertor Command Line tool
+# Professional README Generator Command Line tool
 [![MIT License badge](https://img.shields.io/badge/license-MIT-yellow.svg)](https://choosealicense.com/licenses/mit/)
 
 

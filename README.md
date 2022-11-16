@@ -6,7 +6,7 @@
 
 - [Description](#description)
 - [Installation](#installation)
-    + [Prequisites](#prerequsites)
+    + [Prerequisites](#prerequsites)
     + [How to install](#how-to-install)
 - [Usage](#usage)
 - [Credits](#credits)
@@ -17,7 +17,7 @@
 Writing a nice README can be time consuming, but it certainly doesn't have to be. This application can help get you started! It is a command line tool written in JavaScript using the **node.js** runtime. It will prompt you with serveral questions and then generate a `README.md` file inside the `/data` directory. This README can serve as a good base and you can expand on it further or use it as-is.
 
 ## Installation
-### Prerequsites
+### Prerequisites
 You must have **node.js** installed to run this application. I highly recommend using [**nvm**](https://github.com/nvm-sh/nvm) (node version manager) to manage your node.js installation.
 <br>
 This application is based on **node v16.18.0**.

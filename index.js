@@ -73,7 +73,7 @@ function writeToFile(fileName, data) {
 async function init() {
   const answers = await inquirer.prompt(questions);
   const readmeContent = generateMarkdown(answers);
-  writeToFile("myREADME.md", readmeContent);
+  writeToFile("./data/README.md", readmeContent);
 };
 
 // Function call to initialize app

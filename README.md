@@ -33,10 +33,10 @@ Then navigate over to the root of the `readme-generator` directory and run `npm 
 ## Usage
 Once you have everything installed, including the dependencies, you can run `node index.js` and the application will launch and begin prompting you. Once you answer all the questions you will find a new `README.md` file inside the `/data` directory in your local repository.
 <br>
-Here's a video demo
-<br>
-https://user-images.githubusercontent.com/39972418/202078518-2723271b-817e-4c38-a249-77f27eb5be07.mp4
 
+Here's a video demo
+
+https://user-images.githubusercontent.com/39972418/202079649-004face9-e180-4de9-bd15-ab33975b8d10.mp4
 
 
 ## Credits
@@ -44,3 +44,5 @@ This application uses v8.2.4 of the [inquirer](https://www.npmjs.com/package/inq
 
 ## License
 This application is covered under the [MIT License](https://choosealicense.com/licenses/mit/).
+
+
